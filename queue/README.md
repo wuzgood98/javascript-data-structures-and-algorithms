@@ -1,1 +1,1 @@
-Implementation of a queue with a linked list
+Implementation of a queue data structure with a linked list
