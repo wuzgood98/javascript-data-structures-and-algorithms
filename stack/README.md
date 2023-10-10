@@ -1,1 +1,1 @@
-Implementation of a stack with a linked list
+Implementation of a stack data structure with a linked list
